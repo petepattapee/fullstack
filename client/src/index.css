@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url("/src/assets/BG.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.secfour {
+  background-image: url("/src/assets/bgsecfour.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
